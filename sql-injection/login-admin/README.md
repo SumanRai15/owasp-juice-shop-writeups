@@ -1,5 +1,5 @@
-#Owasp-Juice-Shop WriteUps
- The main goal of this is to log in as Administrator's user account.
+<h1>Owasp-Juice-Shop WriteUps</h1>
+The main goal of this is to log in as Administrator's user account.
 
  Here we have the login page. At first I tried to check if the given login page is vulnerable to SQL Injection or not. To check I added single colon <b>'</b> in the email field and a random password.
  <div align="center">
