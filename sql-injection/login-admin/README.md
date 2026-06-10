@@ -1,7 +1,7 @@
 <h1>Owasp-Juice-Shop WriteUps</h1>
 The main goal of this is to log in as Administrator's user account.
 
- Here we have the login page. At first I tried to check if the given login page is vulnerable to SQL Injection or not. To check I added single colon <b>'</b> in the email field and a random password.
+ Here we have the login page. At first I tried to check if the given login page is vulnerable to SQL Injection or not. To check I added single quote <b>'</b> in the email field and a random password.
  <div align="center">
 <a href="images/01.png">
   <img src="images/01.png" width="600"/>
